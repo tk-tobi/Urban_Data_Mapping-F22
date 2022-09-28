@@ -18,3 +18,6 @@ The first map shows the magnitude of 311 complaints in different zip codes in Ne
 The third map shows that Staten island has the highest percentage of its 311 complaints being illegal fireworks despite having the lowest number of 311 complaints out of all the boroughs.
 
 Using graduated color map to represent this data helps to visualize and get a high level understanding of the data without getting distracted by the specific numbers. 
+
+## Improving Data Visualization
+One way to improve the data visualization to make it more accurate and insightful is by narrowing the class range. This will add more resolution to the data representation. 
