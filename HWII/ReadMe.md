@@ -28,7 +28,7 @@ In this assignment, I retrieved data, conducted analysis, visualized and interpr
 ![map](https://github.com/tk-tobi/Urban_Data_Mapping-F22/blob/main/HWII/Maps/Gradient.png)
 |<b>Map1: Gradient Map</b>|
 
-![legend](https://github.com/tk-tobi/Urban_Data_Mapping-F22/blob/main/HWII/Maps/Legend.png   =100x20)
+![legend](https://github.com/tk-tobi/Urban_Data_Mapping-F22/blob/main/HWII/Maps/Legend.png)
 |<b>Map1: Gradient Legend</b>|
 
 ### Noise Complaints
