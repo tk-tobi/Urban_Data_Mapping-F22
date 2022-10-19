@@ -25,19 +25,19 @@ In this assignment, I retrieved data, conducted analysis, visualized and interpr
 
 ## Maps
 ### 311 Gradient
-![alt text](https://github.com/tk-tobi/Urban_Data_Mapping-F22/blob/main/HWII/Maps/Gradient.png)
+![map](https://github.com/tk-tobi/Urban_Data_Mapping-F22/blob/main/HWII/Maps/Gradient.png =100x20)
 |<b>Map1: Gradient Map</b>|
 
-![alt text](https://github.com/tk-tobi/Urban_Data_Mapping-F22/blob/main/HWII/Maps/Legend.png)
+![legend](https://github.com/tk-tobi/Urban_Data_Mapping-F22/blob/main/HWII/Maps/Legend.png =100x20)
 |<b>Map1: Gradient Legend</b>|
 
 ### Noise Complaints
-![alt text](https://github.com/tk-toi/Urban_Data_Mapping-F22/blob/main/HWII/Maps/Loud%20Music.png)
+![alt text](https://github.com/tk-toi/Urban_Data_Mapping-F22/blob/main/HWII/Maps/Loud%20Music.png =100x20)
 |<b>Map1:Noise Complaints based on Descriptors </b>|
 
 
 ### Map of Residential Zoning
-![alt text](https://github.com/tk-tobi/Urban_Data_Mapping-F22/blob/main/HWII/Maps/Residential%20on%20Gradient.png)
+![map](https://github.com/tk-tobi/Urban_Data_Mapping-F22/blob/main/HWII/Maps/Residential%20on%20Gradient.png =100x20)
 |<b>Map1:Residential Zoning map over Noise Gradient map</b>|
 
 ## Interpretation 
