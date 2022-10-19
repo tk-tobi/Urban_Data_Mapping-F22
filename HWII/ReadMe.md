@@ -37,6 +37,8 @@ In this assignment, I retrieved data, conducted analysis, visualized and interpr
 
 
 ### Map of Residential Zoning
+
+
 ![map](https://github.com/tk-tobi/Urban_Data_Mapping-F22/blob/main/HWII/Maps/Residential%20on%20Gradient.png)
 |<b>Map1:Residential Zoning map over Noise Gradient map</b>|
 
